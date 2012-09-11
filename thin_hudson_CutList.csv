@@ -1,0 +1,34 @@
+Sheet Goods
+Part #,Sub-Assembly,Description,Length(L),Width(W),Thickness(T),Square Foot,Material,
+S-001-01,thin dresser, backing, 56",31 1/4",0 3/4",12.16,[Wood_Plywood_Knots],
+S-002-01,thin dresser, top, 56",16 1/4",0 3/4",6.32,[Wood_Plywood_Knots],
+S-003-01,thin dresser, side,31 1/4",15 1/2",0 3/4",3.36,[Wood_Plywood_Knots],
+S-003-02,thin dresser, side,31 1/4",15 1/2",0 3/4",3.36,[Wood_Plywood_Knots],
+S-004-01,thin dresser, base plank,54 1/2",2",0 3/4",0.76,[Wood_Plywood_Knots],
+S-004-02,thin dresser, base plank,54 1/2",2",0 3/4",0.76,[Wood_Plywood_Knots],
+S-004-03,thin dresser, base plank,54 1/2",2",0 3/4",0.76,[Wood_Plywood_Knots],
+S-004-04,thin dresser, base plank,54 1/2",2",0 3/4",0.76,[Wood_Plywood_Knots],
+S-004-05,, base plank,54 1/2",2",0 3/4",0.76,[Wood_Plywood_Knots],
+S-004-06,, base plank,54 1/2",2",0 3/4",0.76,[Wood_Plywood_Knots],
+S-004-07,, base plank,54 1/2",2",0 3/4",0.76,[Wood_Plywood_Knots],
+S-004-08,, base plank,54 1/2",2",0 3/4",0.76,[Wood_Plywood_Knots],
+S-005-01,thin dresser, midsupport,11 1/2",4",0 3/4",0.32,[Wood_Plywood_Knots],
+S-005-02,thin dresser, midsupport,11 1/2",4",0 3/4",0.32,[Wood_Plywood_Knots],
+S-005-03,, midsupport,11 1/2",4",0 3/4",0.32,[Wood_Plywood_Knots],
+S-005-04,, midsupport,11 1/2",4",0 3/4",0.32,[Wood_Plywood_Knots],
+S-006-01,thin dresser, brace,11 1/2",2",0 3/4",0.16,[Wood_Plywood_Knots],
+S-006-02,thin dresser, brace,11 1/2",2",0 3/4",0.16,[Wood_Plywood_Knots],
+S-006-03,thin dresser, brace,11 1/2",2",0 3/4",0.16,[Wood_Plywood_Knots],
+S-006-04,thin dresser, brace,11 1/2",2",0 3/4",0.16,[Wood_Plywood_Knots],
+S-006-05,, brace,11 1/2",2",0 3/4",0.16,[Wood_Plywood_Knots],
+S-006-06,, brace,11 1/2",2",0 3/4",0.16,[Wood_Plywood_Knots],
+S-006-07,, brace,11 1/2",2",0 3/4",0.16,[Wood_Plywood_Knots],
+S-006-08,, brace,11 1/2",2",0 3/4",0.16,[Wood_Plywood_Knots],
+
+Total Sheet Square Foot
+33.84,
+
+Sheet Materials
+Material,Square Foot,
+[Wood_Plywood_Knots],33.84,
+
